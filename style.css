@@ -1,0 +1,30 @@
+{
+	margin: 0;
+	padding: 0;
+}
+		body{
+			font-family: Arial,Helvetica,sans-serif;
+			font-size: 22px;
+		}
+
+		#menu{
+			height: 500px;
+			width: 800px;
+			background:linear-gradient(0deg,red,pink,red,pink);
+			float: left;
+			margin-left: 10px;
+			margin-top: 10px;
+	
+		
+
+		}
+		#principal{
+			height: 500px;
+			width: 800px;
+			background: linear-gradient(0deg, blue,cyan,blue,cyan);
+			float: left;
+			margin-top: 10px;
+			margin-left: 10px;
+		
+		}
+
